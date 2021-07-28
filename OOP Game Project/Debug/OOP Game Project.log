@@ -1,0 +1,10 @@
+﻿  cEnemies.cpp
+d:\users\ollie\documents\visual studio 2017\projects\oop game project\oop game project\cenemies.cpp(20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  cGameObject.cpp
+  cPlayer.cpp
+  main.cpp
+d:\users\ollie\documents\visual studio 2017\projects\oop game project\oop game project\main.cpp(177): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\users\ollie\documents\visual studio 2017\projects\oop game project\oop game project\main.cpp(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+     Creating library D:\Users\Ollie\Documents\Visual Studio 2017\Projects\OOP Game Project\Debug\OOP Game Project.lib and object D:\Users\Ollie\Documents\Visual Studio 2017\Projects\OOP Game Project\Debug\OOP Game Project.exp
+  OOP Game Project.vcxproj -> D:\Users\Ollie\Documents\Visual Studio 2017\Projects\OOP Game Project\Debug\OOP Game Project.exe
